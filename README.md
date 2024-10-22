@@ -17,7 +17,7 @@ Para cada um dos quatro estudos de caso fornecidos, siga estas instruções:
 Dentro da pasta do estudo de caso, crie as subpastas e arquivos conforme o exemplo abaixo:
 
 ```
-Estudo_Caso_1/
+PORTFOLIO/
     ├── DDL/
     │     ├── EST_CASO_I.sql
     |     ├── EST_CASO_II.sql

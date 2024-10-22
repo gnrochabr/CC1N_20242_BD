@@ -20,10 +20,24 @@ Dentro da pasta do estudo de caso, crie as subpastas e arquivos conforme o exemp
 Estudo_Caso_1/
     ├── DDL/
     │     ├── EST_CASO_I.sql
+    |     ├── EST_CASO_II.sql
+    |     ├── EST_CASO_III.sql
+    |     ├── EST_CASO_IV.sql
+    |     ├── EST_CASO_V.sql
+
     ├── DML/
     │     ├── EST_CASO_I.sql
+    |     ├── EST_CASO_II.sql
+    |     ├── EST_CASO_III.sql
+    |     ├── EST_CASO_IV.sql
+    |     ├── EST_CASO_V.sql
+
     ├── DQL/
     │     ├── EST_CASO_I.sql
+    |     ├── EST_CASO_II.sql
+    |     ├── EST_CASO_III.sql
+    |     ├── EST_CASO_IV.sql
+    |     ├── EST_CASO_V.sql
 ```
 
 Repita essa estrutura para os quatro estudos de caso, conforme for necessário.
